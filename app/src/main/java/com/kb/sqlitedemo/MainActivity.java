@@ -76,7 +76,6 @@ public class MainActivity extends AppCompatActivity {
                 }
                 //Displaying data on the toast
                 Toast.makeText(getApplicationContext(),stringBuffer.toString(),Toast.LENGTH_LONG).show();
-
             }
 
         });
